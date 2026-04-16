@@ -12,6 +12,7 @@ Ogni cartella raccoglie il codice di un singolo post: dentro trovi gli script e 
 | [`intro-llm/02-transformers`](intro-llm/02-transformers) | Testare gli LLM aperti in locale | [aiberto.it/testare-gli-llm-aperti-in-locale](https://aiberto.it/testare-gli-llm-aperti-in-locale) |
 | [`intro-llm/03-quantizzazione`](intro-llm/03-quantizzazione) | Quantizzazione: come far girare un LLM 7B | [aiberto.it/quantizzazione-come-far-girare-un-llm-7b](https://aiberto.it/quantizzazione-come-far-girare-un-llm-7b/) |
 | [`intro-llm/04-chunking`](intro-llm/04-chunking) | Chunking per RAG | [aiberto.it/chunking-rag](https://aiberto.it/chunking-rag) |
+| [`intro-llm/05-database-vettoriali`](intro-llm/05-database-vettoriali) | Database vettoriali | [aiberto.it/vector-database](https://aiberto.it/vector-database) |
 
 > Man mano che escono nuovi articoli, la tabella viene aggiornata con il link al post corrispondente.
 
