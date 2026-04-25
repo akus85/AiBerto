@@ -16,6 +16,7 @@ Ogni cartella raccoglie il codice di un singolo post: dentro trovi gli script e 
 | [`intro-llm/06-dspy`](intro-llm/06-dspy) | DSPy: programmare i Language Model | [aiberto.it/dspy-programmare-language-model](https://aiberto.it/dspy-programmare-language-model) |
 | [`intro-llm/07-rag-locale`](intro-llm/07-rag-locale) | RAG locale: dal PDF alla risposta | [aiberto.it/rag-locale-dal-pdf-alla-risposta](https://aiberto.it/rag-locale-dal-pdf-alla-risposta) |
 | [`intro-llm/08-reranking`](intro-llm/08-reranking) | Reranking per RAG | [aiberto.it/reranking-per-rag](https://aiberto.it/reranking-per-rag) |
+| [`intro-llm/11-valutare-un-rag`](intro-llm/11-valutare-un-rag) | Valutare un RAG: Ragas e metriche | [aiberto.it/valutare-rag-ragas-metriche](https://aiberto.it/valutare-rag-ragas-metriche/) |
 
 > Man mano che escono nuovi articoli, la tabella viene aggiornata con il link al post corrispondente.
 
